@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Use Linux commands to manage file permissions</h1>
 
 <h2>Description</h2>
 This guide explains how to manage file permissions in Linux using a series of commands. Linux file permissions control access to files and directories, ensuring security and proper management of resources. The following steps provide a detailed process for listing, modifying, and setting file permissions, changing file ownership, and more advanced permission settings.
