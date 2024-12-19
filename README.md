@@ -14,6 +14,24 @@ To see the current permissions of a file or directory, use the `ls -l` command:
 ```bash
 ls -l filename
 
+#### `02-change-permissions.md`
+
+```markdown
+# 2. Changing File Permissions in Linux
+
+Use the `chmod` command to modify file permissions.
+
+### Symbolic Mode:
+
+- Add permission: `+`
+- Remove permission: `-`
+- Set permission: `=`
+
+```bash
+chmod u+x filename  # Add execute permission to user
+chmod o-r filename  # Remove read permission from others
+chmod g=rx,o=r filename  # Set group to read and execute, others to read-only
+
 
 
 
