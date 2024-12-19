@@ -38,3 +38,5 @@ To view the current file or directory permissions, use the `ls -l` command. It d
 ls -l filename
 Example Output:
 -rwxr-xr-- 1 user group 1234 Dec 19 12:34 filename
+
+<h2>Change-permission</h2>
