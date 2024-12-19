@@ -40,6 +40,39 @@ chmod g=rx,o=r filename  # Set group to read and execute, others to read-only
 chmod 755 filename  # rwx for owner, rx for group and others
 
 
+#### `03-change-ownership.md`
+
+```markdown
+# 3. Changing File Ownership in Linux
+
+Use the `chown` and `chgrp` commands to change file ownership.
+
+### `chown` Command:
+
+```bash
+chown user1 filename  # Change owner to user1
+chown user1:group1 filename  # Change owner to user1 and group to group1
+chown :group1 filename  # Change only the group to group1
+
+chgrp group1 filename  # Change the group of the file to group1
+
+
+#### `04-special-permissions.md`
+
+```markdown
+# 4. Special Permissions in Linux
+
+Linux supports several special file permissions:
+
+### Setuid (`s`):
+When set on an executable, the program runs with the permissions of the file owner.
+
+```bash
+chmod u+s filename  # Add setuid to a file
+
+chmod g+s directory_name  # Set setgid on a directory
+
+
 
 
 
