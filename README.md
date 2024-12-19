@@ -17,8 +17,6 @@ ls -l filename
 
 # Example output
 -rwxr-xr-- 1 user group 1234 Dec 19 12:34 filename
-
-
 #### `02-change-permissions.md`
 
 ```markdown
