@@ -14,6 +14,12 @@ To see the current permissions of a file or directory, use the `ls -l` command:
 
 ```bash
 ls -l filename
+# 1. Viewing File Permissions in Linux
+
+To see the current permissions of a file or directory, use the `ls -l` command:
+
+```bash
+ls -l filename
 
 
 
