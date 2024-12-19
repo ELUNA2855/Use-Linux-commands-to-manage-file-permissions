@@ -36,7 +36,7 @@ Use the `chmod` command to modify file permissions.
 chmod u+x filename  # Add execute permission to user
 chmod o-r filename  # Remove read permission from others
 chmod g=rx,o=r filename  # Set group to read and execute, others to read-only
-Example:
+# Example:
 chmod 755 filename  # rwx for owner, rx for group and others
 
 
