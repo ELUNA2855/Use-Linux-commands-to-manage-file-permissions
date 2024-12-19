@@ -14,7 +14,7 @@ To see the current permissions of a file or directory, use the `ls -l` command:
 ```bash
 ls -l filename
 
-#### `02-change-permissions.md`
+# 2. change-permissions.md`
 
 ```markdown
 # 2. Changing File Permissions in Linux
