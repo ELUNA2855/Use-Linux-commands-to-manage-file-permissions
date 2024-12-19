@@ -31,14 +31,3 @@ The primary commands used in managing Linux file permissions are:
 - `chown`: Change ownership
 - `chgrp`: Change group ownership
 
----
-
-## 📸 Screenshot Examples
-![Permissions Example](images/file-permissions-example.png)
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate Linux user and advocate for open-source software. If you have any questions or suggestions, feel free to open an issue or contact me via [GitHub](https://github.com/your-username).
-
