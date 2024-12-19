@@ -15,6 +15,9 @@ To see the current permissions of a file or directory, use the `ls -l` command:
 ```bash
 ls -l filename
 
+# Example output
+-rwxr-xr-- 1 user group 1234 Dec 19 12:34 filename
+
 
 
 
